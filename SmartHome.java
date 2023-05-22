@@ -1,7 +1,3 @@
-// Cindy Watters
-// 1.7 Programming Exercise #1
-// CIS 1502
-// 05/1/2023
 
 package com.smarthome;
 
@@ -478,7 +474,3 @@ public class SmartHome {
     }
 }
 
-//The code for this programming assignment for Advanced Java,
-//SmartHome, is my own original submission (unless otherwise cited) in accordance with
-//the Academic Honesty Policy of the Florida Institute of Technology.
-//Faithfully submitted by Cindy Watters, on 5/5/2023.
