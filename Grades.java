@@ -1,7 +1,3 @@
-// Cindy Watters
-// 5.4 Programming Exercise #2
-// CIS 1502
-// 04/09/2023
 
 package grades;
 
@@ -113,6 +109,3 @@ public class Grades {
     }
     
 }
-
-// Academic integrity
-// I certify that this is my own original work
