@@ -1,8 +1,3 @@
-// Cindy Watters
-// 2.5 Programming Assignment
-// CIS 2503
-// 05/12/2023
-
 
 package com.smarthome2;
 
@@ -340,9 +335,3 @@ public class SmartHome2 {
         }
     }
 }
-
-
-//The code for this programming assignment for Advanced Java,
-//SmartHome2, is my own original submission (unless otherwise cited) in accordance with
-//the Academic Honesty Policy of the Florida Institute of Technology.
-//Faithfully submitted by Cindy Watters, on 5/10/2023.
